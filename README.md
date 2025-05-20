@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83b53724-8562-4bdc-b321-167222d015e7)# Expo "Add to Cart" Snack app
+# Expo "Add to Cart" Snack app
 
 Our ITELECTIVE 2 assignment is a small-scale project focused on integrating with a Supabase backend. 
 We've successfully established connectivity to receive and display products. However, a key area for
@@ -8,10 +8,9 @@ development phase and has not yet been fully built or optimized as a deployable 
 
 # Screenshots of the application : 
 
-![image](https://github.com/user-attachments/assets/99079b4e-322e-446e-b7a1-948ca28a4ad4)
-![image](https://github.com/user-attachments/assets/d04766f8-6dc8-497f-aba0-e7bf0200ae17)
-![image](https://github.com/user-attachments/assets/0a520f08-4bbc-4b08-a4e0-a4aa452fda12)
-![image](https://github.com/user-attachments/assets/ab5050ce-1cb6-44a0-81b8-fbfe54500a48)
+![image](https://github.com/user-attachments/assets/55e90930-055a-40f8-ab29-dfe19131d433)   ![image](https://github.com/user-attachments/assets/6d78cc6b-2573-4e17-b6f2-58b87c8f36c0)  
+![image](https://github.com/user-attachments/assets/a89b46f9-302f-4396-9be8-f87820a595f6) ![image](https://github.com/user-attachments/assets/ab5050ce-1cb6-44a0-81b8-fbfe54500a48) ![image](https://github.com/user-attachments/assets/c7c8ac41-02a8-40e9-ae78-27a8107bb79a)
+
 
 
 
